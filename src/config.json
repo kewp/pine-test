@@ -1,0 +1,13 @@
+{
+	"models": [{
+			  "modelName": "pine",
+			  "modelFile": "pine.sbvr",
+			  "apiRoot": "pine",
+			  "customServerCode": "server.coffee"
+	}],
+	"users": [{
+			 "username": "guest",
+			 "password": " ",
+			 "permissions": [ "resource.all" ]
+	}]
+}

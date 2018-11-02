@@ -1,0 +1,24 @@
+{
+  "name": "pine-test",
+  "version": "1.0.0",
+  "description": "Testing Pine.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kewp/pine-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kewp/pine-test/issues"
+  },
+  "homepage": "https://github.com/kewp/pine-test#readme",
+  "dependencies": {
+    "@resin/pinejs": "^9.1.0",
+    "coffee-script": "^1.12.7",
+    "express": "^4.16.4"
+  }
+}
